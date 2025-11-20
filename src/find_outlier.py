@@ -1,5 +1,5 @@
 def find_outlier(integers):
-    ood_number=None
+    odd_number=None
     even_number=None
     even_count=0
     odd_count=0
